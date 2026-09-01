@@ -1,8 +1,8 @@
 public class Mahasiswa {
-    private String nama;
-    private String nim;
-    private String jurusan;
-    private double ipk;
+    String nama;
+    String nim;
+    String jurusan;
+    double ipk;
 
     public Mahasiswa(String nama, String nim, String jurusan, double ipk){
         this.nama = nama;
